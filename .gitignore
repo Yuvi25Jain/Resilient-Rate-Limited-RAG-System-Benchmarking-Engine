@@ -3,7 +3,7 @@
 venv/
 
 # Local Vector Database & Cache
-chroma_db/
+#chroma_db/
 __pycache__/
 *.egg-info/
 
